@@ -1,7 +1,7 @@
 import subprocess
 import time
 
-APP_NAMES = ["Slack", "Google Chrome", "PyCharm", "OrbStack"]
+APP_NAMES = ["Slack", "Google Chrome", "PyCharm", "OrbStack", "Mail"]
 
 
 def get_pids(process_name):
